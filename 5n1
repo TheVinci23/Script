@@ -4,7 +4,7 @@ apt update
 apt install sudo
 HOST='149.100.151.212';
 USER='u143354772_username';
-PASS='Cris@051415';
+PASS='Cris@2024';
 DBNAME='u143354772_dbname';
 PORT_TCP='1194';
 PORT_UDP='110';
